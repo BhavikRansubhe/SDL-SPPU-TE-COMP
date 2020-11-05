@@ -1,3 +1,3 @@
 # TE_COMP_SPPU
 
-Third year Computer Enginnering Lab Assignments !
+Third year - Computer Enginnering - SPPU Lab Assignments !
