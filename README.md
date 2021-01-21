@@ -1,3 +1,3 @@
-# TE_COMP_SPPU
+# SDL ASSIGNMENTS OF SPPU
 
-Third year - Computer Enginnering - SPPU Lab Assignments !
+Third year SDL  Lab Assignments !
